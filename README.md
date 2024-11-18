@@ -1,7 +1,3 @@
-Based on your CV, here's a Markdown-based profile that you could use to enhance your GitHub repository:
-
-```markdown
-# 👨‍🔬 Redha Chawki AGGOUN
 
 **Petroleum Engineering | Change Management | Digital Transformation Expert**  
 📍 Marseille, France | ✉️ [r.aggoun@ieseg.fr](mailto:r.aggoun@ieseg.fr)
@@ -57,6 +53,3 @@ With over 20 years of experience in petroleum engineering and reservoir manageme
 - **Change Management Tools**: PROSCI ADKAR Model, Agile Transformations
 - **Technical Expertise**: Reservoir Management, Petroleum Engineering, Well Optimization
 - **Software Proficiency**: Microsoft Office, SPSS, Nvivo, Prosper, OFM, HTML & CSS Coding, Virtual Machine Setup
-```
-
-This Markdown profile includes a concise introduction, highlights your achievements, key projects, and provides relevant links to professional networks. It will make your GitHub profile repository more engaging and professional. Let me know if there's anything you'd like to adjust or add!
