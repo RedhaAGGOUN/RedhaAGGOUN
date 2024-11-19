@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/7c007204-33b0-4145-bd65-362e0e7f0b21)
 
 **Petroleum Engineering | Change Management | Digital Transformation Expert**  
-📍 Marseille, France | ✉️ [r.aggoun@ieseg.fr](mailto:r.aggoun@ieseg.fr)
+📍 Marseille, France | ✉️ redha.aggoun@laplateforme.io
 
 ---
 
