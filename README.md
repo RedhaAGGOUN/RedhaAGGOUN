@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/7c007204-33b0-4145-bd65-362e0e7f0b21)
+
+![background](https://github.com/user-attachments/assets/8b63312f-3122-4946-9a38-942cf22814f4)
 
 **Petroleum Engineering | Change Management | Digital Transformation Expert**  
 📍 Marseille, France | ✉️ redha.aggoun@laplateforme.io
