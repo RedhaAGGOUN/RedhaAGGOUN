@@ -23,6 +23,8 @@ With over 20 years of experience in engineering, management and research, I spec
 ![screen shot website](https://github.com/user-attachments/assets/516d9d6e-8df3-49aa-863c-485ffba4ddaa)
 ![screen shot website 2](https://github.com/user-attachments/assets/f35fa8d8-bad6-419e-bd11-dedac7158c39)
 ![Project 2](https://github.com/user-attachments/assets/fbb6b375-514d-49e1-a93a-706129249630)
+![Project 2 2](https://github.com/user-attachments/assets/867a5d4e-eb8a-4d14-b128-0628c87adb92)
+
 ---
 
 ## 📌 Key Projects
@@ -36,8 +38,10 @@ With over 20 years of experience in engineering, management and research, I spec
 ### 3. Roxar Consultancy Division
 - Developed and led a consultancy division for Roxar, focusing on production optimization and implementing advanced technological solutions.
 
-### 4. Teaching & Mentoring
-- Visiting Lecturer at various business schools in France (IPAG, Brest Business School, EMLV, IESEG), specializing in digital HR, quantitative research methods, and business strategy.
+### 5. Website Project:
+- Developed a celebrity website focused on Malala Yousafzai, created the landing page for my colleagues' sections, and designed a logo named CELHUB. The project was a collaborative effort published on GitHub.
+### 6. Configuration and Virtual Machines Presentation
+- Delivered a presentation on configuration management and virtual machines. As part of a team, I handled hardware configuration and budget management for purchasing four computers for different users.
 
 ---
 
