@@ -7,7 +7,7 @@
 ---
 
 ## Professional Bio
-With over 20 years of experience in petroleum engineering and reservoir management, I specialize in strategic leadership, change management, and digital transformation. My expertise spans multiple regions, including the Middle East, Europe, and North Africa, where I have successfully led projects in both petroleum operations and digital innovation. I hold a Doctorate in Business Administration with a focus on digital transformation at Al Jazeera, contributing to organizational change in complex settings.
+With over 20 years of experience in engineering, management and research, I specialize in strategic leadership, change management, and digital transformation. My expertise spans multiple regions, including the Middle East, Europe, and North Africa, where I have successfully led projects in both petroleum operations and digital innovation. I hold a Doctorate in Business Administration with a focus on digital transformation.
 
 ---
 
@@ -24,7 +24,7 @@ With over 20 years of experience in petroleum engineering and reservoir manageme
 
 ## 📌 Key Projects
 
-### 1. Al Jazeera Digital Transformation
+### 1. Digital Transformation
 - Conducted research on workplace digital transformation, analyzing organizational culture, leadership dynamics, and communication strategies to drive change across Al Jazeera.
 
 ### 2. Qatar Petroleum Surveillance
