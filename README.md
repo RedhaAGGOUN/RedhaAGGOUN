@@ -1,13 +1,13 @@
 
 ![background](https://github.com/user-attachments/assets/8b63312f-3122-4946-9a38-942cf22814f4)
 
-** Energy Engineering | Change Management | Digital Transformation Expert**  
+** Energy Engineering | Change Management | Digital Transformation Consultant**  
 📍 Marseille, France | ✉️ redha.aggoun@laplateforme.io
 
 ---
 
 ## Professional Bio
-With over 20 years of experience in engineering, management and research, I specialize in strategic leadership, change management, and digital transformation. My expertise spans multiple regions, including the Middle East, Europe, and North Africa, where I have successfully led projects in both petroleum operations and digital innovation. I hold a Doctorate in Business Administration with a focus on digital transformation.
+With over 20 years of experience in engineering, management and research, I specialize in production optimization, change and transformation management. My expertise spans multiple regions, including the Middle East, Europe, and North Africa, where I have successfully led projects in both energy operations and innovation. I hold a Doctorate in Business Administration with a focus on digital transformation.
 
 ---
 
@@ -20,9 +20,9 @@ With over 20 years of experience in engineering, management and research, I spec
 ![Top GitHub Contributor](https://img.shields.io/badge/Top%20Contributor-blue)
 ![Change Management Expert](https://img.shields.io/badge/Change%20Management-PROSCI-green)
 ## Some Projects Screenshots
-![Fan Site Index]![screen shot website](https://github.com/user-attachments/assets/516d9d6e-8df3-49aa-863c-485ffba4ddaa)
-![Fan Site Nobel Prize]![screen shot website 2](https://github.com/user-attachments/assets/f35fa8d8-bad6-419e-bd11-dedac7158c39)
-![Project On Hardware Config and virtual machine setup]!![Project 2](https://github.com/user-attachments/assets/fbb6b375-514d-49e1-a93a-706129249630)
+![screen shot website](https://github.com/user-attachments/assets/516d9d6e-8df3-49aa-863c-485ffba4ddaa)
+![screen shot website 2](https://github.com/user-attachments/assets/f35fa8d8-bad6-419e-bd11-dedac7158c39)
+!Project On Hardware Config and virtual machine setup!![Project 2](https://github.com/user-attachments/assets/fbb6b375-514d-49e1-a93a-706129249630)
 
 ![Screenshot 2](link_to_screenshot_2)
 ---
