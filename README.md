@@ -40,9 +40,9 @@ With over 20 years of experience in engineering, management and research, I spec
 - Developed and led a consultancy division for Roxar, focusing on production optimization and implementing advanced technological solutions.
 
 ### 5. Website Project
-- Developed a celebrity website focused on Malala Yousafzai, created the landing page for my colleagues' sections, and designed a logo named CELHUB. The project was a collaborative effort published on GitHub.
+- Developed a celebrity website focused on  Malala Yousafzai, created the landing page for my colleagues' sections ( other celebrities), and designed a logo named CELHUB. The project was a collaborative effort published on GitHub.
 ### 6. Configuration and Virtual Machines Presentation
-- Delivered a presentation on configuration management and virtual machines. As part of a team, I handled hardware configuration and budget management for purchasing four computers for different users.
+- Worked on a project / Delivered a presentation on configuration management and virtual machines. As part of a team, I handled hardware configuration and budget management for purchasing four computers for different users.
 
 ---
 
