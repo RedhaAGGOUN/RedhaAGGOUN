@@ -22,9 +22,7 @@ With over 20 years of experience in engineering, management and research, I spec
 ## Some Projects Screenshots
 ![screen shot website](https://github.com/user-attachments/assets/516d9d6e-8df3-49aa-863c-485ffba4ddaa)
 ![screen shot website 2](https://github.com/user-attachments/assets/f35fa8d8-bad6-419e-bd11-dedac7158c39)
-!Project On Hardware Config and virtual machine setup!![Project 2](https://github.com/user-attachments/assets/fbb6b375-514d-49e1-a93a-706129249630)
-
-![Screenshot 2](link_to_screenshot_2)
+![Project 2](https://github.com/user-attachments/assets/fbb6b375-514d-49e1-a93a-706129249630)
 ---
 
 ## 📌 Key Projects
