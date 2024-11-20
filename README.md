@@ -1,5 +1,6 @@
 
-![background](https://github.com/user-attachments/assets/8b63312f-3122-4946-9a38-942cf22814f4)
+![background 2](https://github.com/user-attachments/assets/a50b8dd9-fc6a-45a4-92f3-d23c32dd9e5e)
+
 
 Energy Engineering | Change Management | Digital Transformation Consultant
 📍 Marseille, France | ✉️ redha.aggoun@laplateforme.io
