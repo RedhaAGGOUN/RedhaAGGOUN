@@ -2,7 +2,7 @@
 ![background 2](https://github.com/user-attachments/assets/a50b8dd9-fc6a-45a4-92f3-d23c32dd9e5e)
 
 
-Engineer | Entrepreneur | Consultant
+Engineer & Entrepreneur 
 📍 Marseille, France | ✉️ redha.aggoun@laplateforme.io
 
 ---
