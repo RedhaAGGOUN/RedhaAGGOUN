@@ -1,6 +1,4 @@
-
-![background 2](https://github.com/user-attachments/assets/a50b8dd9-fc6a-45a4-92f3-d23c32dd9e5e)
-
+![Juliana Silva](https://github.com/user-attachments/assets/198a2654-827d-4b7f-8c52-ab0269552356)
 
 Engineer & Entrepreneur 
 📍 Marseille, France | ✉️ redha.aggoun@laplateforme.io
